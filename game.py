@@ -1,5 +1,5 @@
 """A number-guessing game."""
 
-# Put your code here
+print ('hi') # test print statement
 
-print ('hi')
+greeting = input("Welcome to our guessing game! What is your name? >")
